@@ -1,0 +1,28 @@
+{
+  "foods": [
+    { "name": ["鲫鱼豆腐汤"],"src":["./image/idea1.jpg"] },
+    { "name": ["蒜蓉生菜"],"src":["./image/idea2.jpg"] },
+    { "name": ["酸辣土豆丝"],"src":["./image/idea3.jpg"] },
+    { "name": ["青椒炒蛋"] ,"src":["./image/idea4.jpg"]},
+    { "name": ["小鸡炖蘑菇"] ,"src":["./image/idea5.jpg"]},
+    { "name": ["紫菜蛋花汤"] ,"src":["./image/idea6.jpg"]},
+    { "name": ["红烧肉"] ,"src":["./image/idea7.jpg"]},
+    { "name": ["火锅"] ,"src":["./image/idea8.jpg"]},
+    { "name": ["麻婆豆腐"] ,"src":["./image/idea9.jpg"]},
+    { "name": ["辣子鸡丁"] ,"src":["./image/idea10.jpg"]},
+    { "name": ["泡面"] ,"src":["./image/idea11.jpg"]},
+    { "name": ["外卖"] ,"src":["./image/idea12.jpg"]},
+    { "name": ["土豆炒肉丝"] ,"src":["./image/idea13.jpg"]},
+    { "name": ["番茄鸡蛋"] ,"src":["./image/idea14.jpg"]},
+    {"name":["蚂蚁上树"],"src":["./image/idea15.jpg"]},
+    {"name":["韭菜鸡蛋"],"src":["./image/idea16.jpg"]},
+    {"name":["小炒鸡"],"src":["./image/idea17.jpg"]},
+    {"name":["红烧茄子"],"src":["./image/idea18.jpg"]},
+    { "name": ["麻辣鸭血"] ,"src":["./image/idea19.jpg"]},
+    { "name": ["干煸豆角"] ,"src":["./image/idea20.jpg"]},
+    {"name":["酱爆鸡丁"],"src":["./image/idea21.jpg"]},
+    {"name":["白灼大虾"],"src":["./image/idea22.jpg"]},
+    {"name":["红烧鱼"],"src":["./image/idea23.jpg"]},
+    {"name":["虎皮青椒"],"src":["./image/idea24.jpg"]}
+  ]
+}
